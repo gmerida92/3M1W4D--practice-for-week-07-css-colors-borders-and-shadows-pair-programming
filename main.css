@@ -16,18 +16,26 @@
 
 .text2 {
   background-color: burlywood;
+  color: rgb(214,122,127);
 }
 
 .box3 {
-  background-color: lavender;
+  background-color: rgba(red, green, blue, 0.6);
+
 }
 
 .box5 {
   background-color: lemonchiffon;
+  box-shadow: 2px 8px 15px teal;
 }
 
 .box6 {
   background-color: papayawhip;
+  box-shadow: #800000  5px 0px 0px 10px;
+}
+
+h2 {
+  opacity: 0.5;
 }
 
 
